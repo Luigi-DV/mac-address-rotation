@@ -1,0 +1,12 @@
+# PyCharm
+.idea/
+*.iml
+*.ipr
+*.iws
+*.iws.workspace
+*.idea
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+.history/
